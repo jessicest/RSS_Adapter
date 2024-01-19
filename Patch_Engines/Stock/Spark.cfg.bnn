@@ -1,0 +1,18 @@
+//Spark
+@PART[liquidEngineMini_v2]
+{
+
+	@TechRequired = advRocketry
+	@title = S5 4
+	@mass = 0.098
+	@description = Isayev Nitric acid/Amine rocket engine. Vostok/Voskhod retrofire engine; spacecraft maneuvering engine.
+	@MODULE[ModuleEngine*]
+	{
+		@maxThrust = 101
+		@atmosphereCurve
+		{
+			@key,0 = 0 266
+			@key,1 = 1 106
+		}
+	}
+}
