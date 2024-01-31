@@ -17,9 +17,11 @@ There are the dependancies:
 - Do not forget to install Cryo Tank's dependancy.
 
 
-And I strongly recommend you to install "RealEnginesPack 2.01" -- 'cause you'll need more real engines for the real crafts! (I even made the Waterfall based effect for them!) ;)  
-"Tantares" is a must have addon, FMPOV -- install my addon and their engines'll become the real ones too (yeah, not all of them... but only for now)
-You can instal BDB (Bluedog), but I don't know how will they work together
+And I strongly recommend you to install [RealEnginesPack 2.01](https://spacedock.info/mod/1212/RealEngines#changelog) -- 'cause you'll need more real engines for the real crafts!  
+(I even made the Waterfall based effect for them!) ;)  
+"Tantares" is a must have addon, FMPOV -- install my addon and their engines'll become the real ones too.  
+(yeah, not all of them... but only for now)  
+You can instal BDB (Bluedog), but I don't know how will they work together.
 
 ### NOTES
 
