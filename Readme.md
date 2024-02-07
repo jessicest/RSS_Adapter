@@ -11,10 +11,9 @@ Parameters have been, made and changed based on this simple fact, that KSP's rep
 
 There are the dependancies:
 
-- [Custom Barn Kit](https://forum.kerbalspaceprogram.com/topic/109027-18-custom-barn-kit-1120-19-october-2019-parachute-included/) -- for the launchpad improvements (your LVs will be much heavier now)
-] -- for the launchpad improvements (your LVs will be much heavier now)
-- [Cryo Tanks](https://forum.kerbalspaceprogram.com/topic/195042-112x-cryotanks-liquid-hydrogen-storage-and-management-oct-25-2021/) -- real engines use real fuels (hydrolox and metalox) hydrazine is added by this addon. :)
-- Do not forget to install Cryo Tank's dependancies.
+- **[Custom Barn Kit](https://forum.kerbalspaceprogram.com/topic/109027-18-custom-barn-kit-1120-19-october-2019-parachute-included/)** -- for the launchpad improvements (your LVs will be much heavier now)
+- **[Cryo Tanks](https://forum.kerbalspaceprogram.com/topic/195042-112x-cryotanks-liquid-hydrogen-storage-and-management-oct-25-2021/)** -- real engines use real fuels (hydrolox and metalox) hydrazine is added by this addon. :)
+- **Do not forget to install Cryo Tank's dependancies.**
 
 
 And I strongly recommend you to install [RealEnginesPack 2.01](https://spacedock.info/mod/1212/RealEngines#changelog) -- 'cause you'll need more real engines for the real crafts!  
