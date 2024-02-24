@@ -22,6 +22,10 @@ And I strongly recommend you to install [RealEnginesPack 2.01](https://spacedock
 (yeah, not all of them... but only for now)  
 You can instal BDB (Bluedog), but I don't know how will they work together.
 
+### SUPPORT  
+- Mandatory RCS
+- Internal RCS
+
 ### NOTES
 
 My addon is not pretending to give your LVs THE REAL chracteristics. Your crafts might look like the real, and might work quite plausible, but they won't be THE SAME AS THE REAL ONES.
