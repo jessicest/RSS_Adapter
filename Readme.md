@@ -18,19 +18,21 @@ There are the dependancies:
 
 ***
 
-And I strongly recommend you to install [RealEnginesPack 2.01](https://spacedock.info/mod/1212/RealEngines#changelog) -- 'cause you'll need more real engines for the real crafts!  
+And I strongly recommend you to install **[RealEnginesPack 2.01](https://spacedock.info/mod/1212/RealEngines#changelog)** -- 'cause you'll need more real engines for the real crafts!  
 (I even made the Waterfall based effect for them!) ;)  
 "Tantares" is a must have addon, FMPOV -- install my addon and their engines'll become the real ones too.  
   
-You can instal BDB (Bluedog), but I don't know how will they work together.
 
 ### SUPPORT
-- Tantares  
-- Mandatory RCS
-- Internal RCS
+- Tantares  --  its engines will have real-life characteristics.
+- Internal RCS  --  has a switch between Az50+NTO and Monopropellant.
+- Procedural Parts -- has a switch to Az50+NTO.
+- Mandatory RCS  --  will unlock all SAS nodes for you from the start, add an unmanned module to each cabin, and move RCS further left in the tech tree.
+- Real Engines Pack  -- has a reasonable distribution in the tech tree, real characteristics and Waterfoll. It is recommended to install the Textures Unlimited mod, which automatically fixes the appearance of some engines from this pack.
+- Bluedog Design Bureau  --  He's working at the RSS now.
 
 ### CONFLICT
-- Real Fuels
+- Real Fuels -- cannot be compatible with RSS Adapter, since it changes the same thing: fuel and engines.
 
 
 ### LICENCE
