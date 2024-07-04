@@ -1,0 +1,50 @@
+# CangeLog
+
+### RSS Adapter 0.3.1
+
+- The first public release
+- Many patches are grouped into several files.
+
+### RSS Adapter 0.3.2
+
+- Fixed the display of the traction vector for real engines.
+- Added config unlimited textures to correct the appearance of some of the real engines.
+- Hydrazine from tablets and containers of life support is removed.
+- Added various corrections for Tantares.
+
+### RSS Adapter 0.3.3
+
+- Changes in the Tech Tree
+- Fixed waterfall effects for real engines
+
+### RSS Adapter 0.3.4
+
+- SRBs are led to more real values based on the SLS side booster.
+
+### RSS Adapter 0.3.5
+
+- Real engines are finally placed on the techtree.
+- A role was found for a poodle.
+
+### RSS Adapter 0.3.6
+
+- Added waterfall for Tantares RCS
+- Added ETC engine patch
+- Any fixes
+
+### RSS Adapter 0.3.7
+
+- Finished Tantares.
+- Begin BDB.
+- Modified readme
+
+### RSS Adapter 0.3.8
+
+- Bluedog Design Bureau -- He's working at the RSS now!
+- A bunch of minor corrections.
+
+### RSS Adapter 0.3.9
+
+- Fixed the specific impulse vacuum for the NK-33 tantares.
+- Added switches to Az50+NTO for the BDB blocks of the RCS.
+- Added an adaptation of the Starship Expansion Project mod (being tested)
