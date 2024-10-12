@@ -30,6 +30,7 @@ And I strongly recommend you to install **[RealEnginesPack 2.01](https://spacedo
 - Mandatory RCS  --  will unlock all SAS nodes for you from the start, add an unmanned module to each cabin, and move RCS further left in the tech tree.
 - Real Engines Pack  -- has a reasonable distribution in the tech tree, real characteristics and Waterfoll. It is recommended to install the Textures Unlimited mod, which automatically fixes the appearance of some engines from this pack.
 - Bluedog Design Bureau  --  He's working at the RSS now.
+- Strship Expansion -- yes.
 
 ### CONFLICT
 - Real Fuels -- cannot be compatible with RSS Adapter, since it changes the same thing: fuel and engines.
