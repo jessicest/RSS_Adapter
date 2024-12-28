@@ -1,4 +1,4 @@
-@PART[bluedog_CentaurD_RL10A4N]:FINAL
+@PART[bluedog_CentaurD_RL10A4N]:NEEDS[Bluedog_DB_Extras]:AFTER[Bluedog_DB]
 {
 	@mass = 0.165
 	@MODULE[ModuleEngines*]
