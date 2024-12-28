@@ -32,6 +32,11 @@ And I strongly recommend you to install **[RealEnginesPack 2.01](https://spacedo
 - Bluedog Design Bureau  --  He's working at the RSS now.
 - Strship Expansion -- yes.
 
+- Added Artemis Construction Kit support.
+- Added Near Future mods support.
+- Added oxygen boiling off
+
+
 ### CONFLICT
 - Real Fuels -- cannot be compatible with RSS Adapter, since it changes the same thing: fuel and engines.
 

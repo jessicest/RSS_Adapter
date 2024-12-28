@@ -48,3 +48,12 @@
 - Fixed the specific impulse vacuum for the NK-33 tantares.
 - Added switches to Az50+NTO for the BDB blocks of the RCS.
 - Added an adaptation of the Starship Expansion Project mod (being tested)
+
+### RSS Adapter 0.4.1
+
+- Added Artemis Construction Kit support.
+- Added Near Future Construction support.
+- Added Near Future Launch Vehicles support.
+- Added Near Future Spacecraft support.
+- Added oxygen boiling off
+- Minor cosmetic changes
