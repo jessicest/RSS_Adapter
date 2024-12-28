@@ -31,10 +31,12 @@ And I strongly recommend you to install **[RealEnginesPack 2.01](https://spacedo
 - Real Engines Pack  -- has a reasonable distribution in the tech tree, real characteristics and Waterfoll. It is recommended to install the Textures Unlimited mod, which automatically fixes the appearance of some engines from this pack.
 - Bluedog Design Bureau  --  He's working at the RSS now.
 - Strship Expansion -- yes.
-
-- Added Artemis Construction Kit support.
-- Added Near Future mods support.
-- Added oxygen boiling off
+- Added Artemis Construction Kit - SLS can now fly in RSS. But it doesn't fly very well with real engine power values.
+- Added Near Future Construction - hydrazine was added to tanks integrated into metal structures.
+- Added Near Future Launch Vehicles - Some engines have become methane-powered. One of them is very powerful - an analogue of F1.
+- Added Near Future Spacecraft - monopropellant engines have become hydrazine.
+- Added oxygen boiling off - I'm sorry, but it really is. That is why hydrazine is used.
+- Minor cosmetic changes
 
 
 ### CONFLICT
