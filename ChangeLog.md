@@ -57,3 +57,9 @@
 - Added Near Future Spacecraft support.
 - Added oxygen boiling off
 - Minor cosmetic changes
+
+### RSS Adapter 0.4.2
+
+- VabOrganizer Config
+- Pug Aerozine
+- Minor Edits
