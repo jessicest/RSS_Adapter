@@ -24,6 +24,7 @@ And I strongly recommend you to install **[RealEnginesPack 2.01](https://spacedo
   
 
 ### SUPPORT
+- ReStock & ReStock+ -- It goes without saying.
 - Tantares  --  its engines will have real-life characteristics.
 - Internal RCS  --  has a switch between Az50+NTO and Monopropellant.
 - Procedural Parts -- has a switch to Az50+NTO.
@@ -36,7 +37,7 @@ And I strongly recommend you to install **[RealEnginesPack 2.01](https://spacedo
 - Near Future Launch Vehicles - Some engines have become methane-powered. One of them is very powerful - an analogue of F1.
 - Near Future Spacecraft - monopropellant engines have become hydrazine.
 - VabOrganizer -- all engines are sorted by fuel type.
-
+- Tundra -- falcons are great.
 
 ### CONFLICT
 - Real Fuels -- cannot be compatible with RSS Adapter, since it changes the same thing: fuel and engines.
