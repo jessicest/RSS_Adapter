@@ -63,3 +63,8 @@
 - VabOrganizer Config
 - Pug Aerozine
 - Minor Edits
+
+### RSS Adapter 0.4.3
+
+- Added Tundra
+- Minor Edits
