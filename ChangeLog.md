@@ -68,3 +68,9 @@
 
 - Added Tundra
 - Minor Edits
+
+### RSS Adapter 0.4.4
+
+- Fix for Tantares LV v16.2
+- Fix for Tantares SP v28.0
+- Fix for BDB v1.14.0
