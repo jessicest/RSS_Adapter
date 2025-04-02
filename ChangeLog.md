@@ -74,3 +74,9 @@
 - Fix for Tantares LV v16.2
 - Fix for Tantares SP v28.0
 - Fix for BDB v1.14.0
+
+### RSS Adapter 0.4.5
+
+- I think I'm done with BDB v1.14.0
+- I gave the stock LR-87 three types of fuel, as it was IRL
+- Global cleaning in all config files
