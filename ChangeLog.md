@@ -80,3 +80,9 @@
 - I think I'm done with BDB v1.14.0
 - I gave the stock LR-87 three types of fuel, as it was IRL
 - Global cleaning in all config files
+
+### RSS Adapter 0.4.6
+
+-General cleaning in Tantares.
+Now the unmanned modules, cabins and RCS tanks will not contain all types of fuel.
+The exhaust of the RCS nozzles has been put in order.
